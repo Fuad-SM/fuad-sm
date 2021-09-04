@@ -1,8 +1,8 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">, I'm [Fuad.](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a)
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">, I'm [Fuad.](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a)
 
-🌱 I'm flutter mobile programmer.
-👨‍💻 I am passionate about mobile dev & I enjoy learning new things.
-✨ I'm currently studying to become a fullstack mobile developer.
+- 🌱 I'm flutter mobile programmer.
+- 👨‍💻 I am passionate about mobile dev & I enjoy learning new things.
+- ✨ I'm currently studying to become a fullstack mobile developer.
 
 <!--
 **Fuad-SM/fuad-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
