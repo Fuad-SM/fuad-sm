@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">, I'm [Fuad.](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a)
+## Hi there, I'm [Fuad.](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a)
 
 - 🌱 I'm flutter mobile programmer.
 - 👨‍💻 I am passionate about mobile dev & I enjoy learning new things.
