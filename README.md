@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-SM&layout=compact&theme=nightowl)
 
-// <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Fuad-SM&label=Fuad-SM%20Profile%20Views%20&color=dc143c&style=plastic) -->
+ <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Fuad-SM&label=Fuad-SM%20Profile%20Views%20&color=dc143c&style=plastic) -->
 
-// ![Fuad Syafa'at Muharram github stats](https://github-readme-stats.vercel.app/api?username=Fuad-SM&show_icons=true&hide_border=false) ![Fuad Syafa'at Muharram Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-SM&count_private=true&hide=javascript&layout=compact&langs_count=8&hide_border=false)
+<!-- ![Fuad Syafa'at Muharram github stats](https://github-readme-stats.vercel.app/api?username=Fuad-SM&show_icons=true&hide_border=false) ![Fuad Syafa'at Muharram Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-SM&count_private=true&hide=javascript&layout=compact&langs_count=8&hide_border=false) -->
 
 ## Reach me on
 
